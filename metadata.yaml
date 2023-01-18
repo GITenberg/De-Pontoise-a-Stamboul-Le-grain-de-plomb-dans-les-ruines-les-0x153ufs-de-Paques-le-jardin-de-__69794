@@ -1,0 +1,40 @@
+_repo: De-Pontoise-a-Stamboul-Le-grain-de-plomb-dans-les-ruines-les-0x153ufs-de-Paques-le-jardin-de-__69794
+_version: 0.0.1
+creator:
+  author:
+    agent_name: About, Edmond
+    aliases:
+    - About, Edmond François Valentin
+    - Abu, Edmond
+    - About, E. (Edmond)
+    - Avout, Edmondos
+    - Ampou, Edmondos
+    - About, Edmond Francois Valentin
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '5182'
+    url: http://www.gutenberg.org/2009/agents/5182
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edmond_François_Valentin_About
+    - https://fr.wikipedia.org/wiki/Edmond_About
+description: ''
+gutenberg_issued: '2023-01-14'
+identifiers:
+  gutenberg: '69794'
+language: fr
+pgterms:marc904: http://books.google.com/books?id=DsoLAAAAQAAJ
+pgterms:marc905: 20201203131458about
+pgterms:marc906: '1884'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: 'France: Hachette,1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'De Pontoise à Stamboul: Le grain de plomb; dans les ruines; les œufs de Pâques;
+  le jardin de mon grand-père; au petit Trianon; quatre discours'
+url: http://www.gutenberg.org/ebooks/69794
